@@ -1,0 +1,4 @@
+Esc to quit
+Left Mouse Button to launch missile
+
+use the mouse cursor to control the missile
